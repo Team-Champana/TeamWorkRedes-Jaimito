@@ -59,8 +59,17 @@ Servicios incorporados:
 _________
 
 Conclusiones:
-- Podemos 
+- Podemos concluir que Jaimito realizo con exito la navegación por la pagina web "Cisco.com".
+- El modelo utilizado en Packed Tracer, nos facilita resolver el problema de una forma mas visual y de forma efectiva.
+- Los temas vistos en clase son comprendidos y incorporados en la solución de este reto.
+_________
 
-desafíos encontrados.
+Desafíos encontrados:
+- Se tuviron dificultades conectando varios componentes, ya que aveces la logica estaba bien, pero los puertos no eran los correctos.
+- Dificultad en comprender la compativilidad wireless, ya que se necesitaba de mas imformación para comprender la conectar un AP a un dispositivo.
+- Dificultades con los cambios de componentes físicos.
+- Poca experiencia por el programa Packed Tracer.
+_________
 
-referencias.
+Referencias:
+
